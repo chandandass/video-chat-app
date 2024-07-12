@@ -144,7 +144,7 @@ export class Signaling
         console.log(data._node.children_.root_.key,"offer")
         console.log(data.val()[r].name,"offer")
         console.log(data.val(),"offer")
-        
+         
         // child(ref(this.#db),`first/${r}`).remove();
         // remove(ref(this.#db,`first/${r}`))
         
